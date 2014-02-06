@@ -1,2 +1,3 @@
 JMP
 ===
+Open source plugins
